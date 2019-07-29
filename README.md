@@ -1,4 +1,20 @@
 # Big-Query-Learning
 A repository to learn Google Big Query and small projects
 
-Google's GCP platform and BigQuery is an enterprise data warehouse that also can be used as permanent storage for big data. It is serverless easy to load data query and administer. It supports a SQL interface. Can make custom functions to make analytics easy for your specific business needs
+Google's GCP platform and BigQuery is an enterprise data warehouse that also can be used as permanent storage for big data. It is serverless easy to load data query and administer. It supports a SQL interface. Can make custom functions to make analytics easy for your specific business needs. Can be easily integrated into a data-pipeline.
+
+**Google Big Queyr Characteristics**
+
+* enterprise data warehouse
+* serverless
+* SQL support
+* Can use data from other sources
+* Can create custom functions
+* easy integration with data pipeline
+
+**Strengths**
+
+* serverless
+* SQL support
+* Scalability
+* Flexible data sources
